@@ -19,7 +19,7 @@ Started with biomedical engineering, witnessed usage of healthcare technology by
 - Imbalanced dataset, accounted for using data augmentation, identified incorrect usage of vertical and horizontal flips on several notebook as that would create a bias in detection by placing the heart on the right side of the chest- A condition known as Dextrocardia
 - Obtained test F1 score of 91.38 and an AUC score of 95.3
 - Step by step code explained in [blog](https://ks-arjunsubramaniyan.medium.com/pneumonia-classification-in-x-rays-using-deep-learning-247d27ed1b6f)
-![](/images/pne10.png)  ![](/images/pne11.png) 
+![](/images/Pne10.png) ![](/images/pne11.png) 
 
 #### [Sleep stage detection](https://github.com/arjun-subramaniyan/healthcare-ml/blob/main/EMGEOG_sleepstagetracker.ipynb)
 - Data extracted from [Physionet challenge](https://physionet.org/content/challenge-2018/1.0.0/)
