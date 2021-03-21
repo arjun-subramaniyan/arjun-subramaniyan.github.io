@@ -36,6 +36,7 @@ Started with biomedical engineering, witnessed usage of healthcare technology by
  ![](/images/robolang.jpg)
  
  ### **Biomedical engineering**
+ 
  #### Application of infrared thermography for ophthalmic diagnosis
  - Infrared imaging of the eyes to study the Ocular surface temperature(OST) and it's relationship with glaucoma
  - Made use of MLX90614 non contact IR temperature sensor along with arduino for faster measurement
@@ -48,10 +49,6 @@ Started with biomedical engineering, witnessed usage of healthcare technology by
 - An application for step down wards where the central nurse station and Code blue team could be simultaneously alerted in case of an arrhythmia 
  ![](/images/nc.png)
  
-
-
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 
 
