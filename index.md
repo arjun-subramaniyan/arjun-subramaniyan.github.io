@@ -20,7 +20,7 @@ Started with biomedical engineering, witnessed usage of healthcare technology by
 - Obtained test F1 score of 91.38 and an AUC score of 95.3
 - Step by step code explained in [blog](https://ks-arjunsubramaniyan.medium.com/pneumonia-classification-in-x-rays-using-deep-learning-247d27ed1b6f)
 
-![](/images/Pne10.png) 
+![](/images/pne7.png) 
 
 #### [Sleep stage detection](https://github.com/arjun-subramaniyan/healthcare-ml/blob/main/EMGEOG_sleepstagetracker.ipynb)
 - Data extracted from [Physionet challenge](https://physionet.org/content/challenge-2018/1.0.0/)
@@ -41,7 +41,10 @@ Started with biomedical engineering, witnessed usage of healthcare technology by
  - Infrared imaging of the eyes to study the Ocular surface temperature(OST) and it's relationship with glaucoma
  - Made use of MLX90614 non contact IR temperature sensor along with arduino for faster measurement
  - Obtained a negative correlation between OST and IOP.
- ![](/images/15.jpg)
+ <p align="center">
+  <src="/images/15.jpg">
+</p>
+ 
 
 
 #### [Low Cost automated nurse call system for improving patient care using LabVIEW](https://www.worldscientific.com/doi/10.4015/S1016237218500308)
@@ -51,8 +54,9 @@ Started with biomedical engineering, witnessed usage of healthcare technology by
  
 
 Tools:
- ![](/images/l1.png)
-
+ ![](/images/l1.png) 
+ ![](/images/l2.png) 
+ ![](/images/l3.png) 
 
 ### Contact me
 
