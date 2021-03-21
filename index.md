@@ -11,6 +11,7 @@ Started with biomedical engineering, witnessed usage of healthcare technology by
 - Time series detection of Sepsis, which is a cause of 1 among 5 deaths worldwide according to the WHO 2020 report.
 - Outcome variable Sepsis constructed by using the diagnosis string variable and by looking into ICD diagnosis codes.
 - Patient based train test split to avoid information leakage
+![] (images/sep2.JPG)
 - Tools used: Python,Pyspark, Google Bigquery, Spark SQL, Pandas, sklearn
 
 #### [Pneumonia detection- AI in healthcare course project](https://github.com/arjun-subramaniyan/healthcare-ml/blob/main/Pneumonia_detection.ipynb)
@@ -18,12 +19,14 @@ Started with biomedical engineering, witnessed usage of healthcare technology by
 - Imbalanced dataset, accounted for using data augmentation, identified incorrect usage of vertical and horizontal flips on several notebook as that would create a bias in detection by placing the heart on the right side of the chest- A condition known as Dextrocardia
 - Obtained test F1 score of 91.38 and an AUC score of 95.3
 - Step by step code explained in [blog](https://ks-arjunsubramaniyan.medium.com/pneumonia-classification-in-x-rays-using-deep-learning-247d27ed1b6f)
+![](images/pne10.JPG)  ![](images/pne11.JPG) 
 
 #### [Sleep stage detection](https://github.com/arjun-subramaniyan/healthcare-ml/blob/main/EMGEOG_sleepstagetracker.ipynb)
-- Data extracted from Physionet<https://physionet.org/content/challenge-2018/1.0.0/> challenge
+- Data extracted from [Physionet challenge](https://physionet.org/content/challenge-2018/1.0.0/)
 - Using Maachine learning and signal processing to detect the 3 stages of sleep- Awake, NREM, REM 
 - EMG: Electrical activity in muscles which reduce upon deeper sleep and EOG: electrical activity elicited due to random movement of pupil(eyeball) which is highest during deep sleep stage(highest during REM phase)
 - Leave one out cross validation used for training and XGboost algorithm gave an F1 of 80 on train set and 77 on unknown test set.
+ ![](images/sleep.PNG)
 
 
 
