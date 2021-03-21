@@ -42,7 +42,7 @@ Started with biomedical engineering, witnessed usage of healthcare technology by
  - Made use of MLX90614 non contact IR temperature sensor along with arduino for faster measurement
  - Obtained a negative correlation between OST and IOP.
 <p align="center">
-  <img src="https://github.com/arjun-subramaniyan/arjun-subramaniyan.github.io/blob/gh-pages/images/15.jpg"/>
+  <img src="/images/15.jpg"/>
 </p>
  
 
