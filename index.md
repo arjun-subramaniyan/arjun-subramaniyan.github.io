@@ -1,8 +1,14 @@
-## Arjun Subramaniyan K S
+
 
 Healthcare Data scientist | Biomedical engineer | Product manager
 
 Started with biomedical engineering, witnessed healthcare technology usage directly with clinicians across hospitals in South India, Pursuing masters in Digital health with a focus on data to get my hands dirty on coming up with meaningful innovation.
+
+- 👋 Hi, I’m @arjun-subramaniyan
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
