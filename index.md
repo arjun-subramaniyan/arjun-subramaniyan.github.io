@@ -58,7 +58,7 @@ Started with biomedical engineering, witnessed usage of healthcare technology by
 - Mini project using ECG simulation and signal processing
 - Application for step-down wards where the central nurse station and Code blue team could be simultaneously alerted in case of an arrhythmia 
 <p align="center">
-  <img src="/images/nc.jpg"/>
+  <img src="/images/nc.png"/>
 </p>
  
  
@@ -71,7 +71,7 @@ Started with biomedical engineering, witnessed usage of healthcare technology by
 ---
 ### Contact me
 
-👋 Hi, I’m on [Linkedin](https://www.linkedin.com/in/arjun-subramaniyan-ks/) |📫 ks.arjunsubramaniyan@gmail.com | 📞 +91-9952030524 |[My github](https://github.com/arjun-subramaniyan)|
+👋 Hi, I’m on [Linkedin](https://www.linkedin.com/in/arjun-subramaniyan-ks/) |📫 ks.arjunsubramaniyan@gmail.com | 📞 +91-9952030524 |[My github](https://github.com/arjun-subramaniyan) |
 
 
 
