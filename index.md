@@ -24,15 +24,15 @@ Started with biomedical engineering, witnessed usage of healthcare technology by
 
 #### [Sleep stage detection](https://github.com/arjun-subramaniyan/healthcare-ml/blob/main/EMGEOG_sleepstagetracker.ipynb)
 - Data extracted from [Physionet challenge](https://physionet.org/content/challenge-2018/1.0.0/)
-- Using Maachine learning and signal processing to detect the 3 stages of sleep- Awake, NREM, REM 
+- Using Machine learning and signal processing to detect the 3 stages of sleep- Awake, NREM, REM 
 - EMG: Electrical activity in muscles which reduce upon deeper sleep and EOG: electrical activity elicited due to random movement of pupil(eyeball) which is highest during deep sleep stage(highest during REM phase)
-- Leave one out cross validation used for training and XGboost algorithm gave an F1 of 80 on train set and 77 on unknown test set.
+- Leave one out cross validation used and XGboost algorithm gave an F1 of 80 and 77 on train and unknown test set.
  ![](/images/sleep.png)
  
 #### [Robolang-BIOS](https://capstone.utu.fi/en-robolang-bios)
  - Team capstone project to study the application of social robots in language teaching.
  - My role to study the emotional response in subjects by analysing the biosignals namely EDA(Electrodermal activity), PPG(Photoplethysmogram) and pupillometric activity
- - Mock trial conducted and spikes in EDA observed during a conversational dialog with the Nao robot.
+ - Mock trial conducted and spikes in EDA observed during the conversational dialog.
  ![](/images/robolang.jpg)
  
 ### **Biomedical engineering**
@@ -42,7 +42,7 @@ Started with biomedical engineering, witnessed usage of healthcare technology by
  - Made use of MLX90614 non contact IR temperature sensor along with arduino for faster measurement
  - Obtained a negative correlation between OST and IOP.
 <p align="center">
-  <src="https://github.com/arjun-subramaniyan/arjun-subramaniyan.github.io/blob/gh-pages/images/15.jpg"/>
+  <img src="https://github.com/arjun-subramaniyan/arjun-subramaniyan.github.io/blob/gh-pages/images/15.jpg"/>
 </p>
  
 
