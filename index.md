@@ -20,7 +20,9 @@ Started with biomedical engineering, witnessed usage of healthcare technology by
 - Obtained test F1 score of 91.38 and an AUC score of 95.3
 - Step by step code explained in [blog](https://ks-arjunsubramaniyan.medium.com/pneumonia-classification-in-x-rays-using-deep-learning-247d27ed1b6f)
 
-![](/images/pne7.png) 
+<p align="center">
+  <img src="/images/pne7.png"/>
+</p>
 
 #### [Sleep stage detection](https://github.com/arjun-subramaniyan/healthcare-ml/blob/main/EMGEOG_sleepstagetracker.ipynb)
 - Data extracted from [Physionet challenge](https://physionet.org/content/challenge-2018/1.0.0/)
@@ -33,7 +35,10 @@ Started with biomedical engineering, witnessed usage of healthcare technology by
  - Team capstone project to study the application of social robots in language teaching.
  - My role to study the emotional response in subjects by analysing the biosignals namely EDA(Electrodermal activity), PPG(Photoplethysmogram) and pupillometric activity
  - Mock trial conducted and spikes in EDA observed during the conversational dialog.
- ![](/images/robolang.jpg)
+
+<p align="center">
+  <img src="/images/robolang.jpg"/>
+</p>
  
 ### **Biomedical engineering**
 
@@ -50,7 +55,10 @@ Started with biomedical engineering, witnessed usage of healthcare technology by
 #### [Low Cost automated nurse call system for improving patient care using LabVIEW](https://www.worldscientific.com/doi/10.4015/S1016237218500308)
 - Mini project using ECG simulation and signal processing
 - Application for step-down wards where the central nurse station and Code blue team could be simultaneously alerted in case of an arrhythmia 
- ![](/images/nc.png)
+<p align="center">
+  <img src="/images/nc.jpg"/>
+</p>
+ 
  
 
 Tools:
@@ -58,18 +66,12 @@ Tools:
  ![](/images/l2.png) 
  ![](/images/l3.png) 
 
+---
 ### Contact me
 
-- 👋 Hi, I’m @arjun-subramaniyan
-- 📫 ks.arjunsubramaniyan@gmail.com
-- 📞 +91-9952030524
-- [My github](https://github.com/arjun-subramaniyan)
+👋 Hi, I’m @arjun-subramaniyan                            📫 ks.arjunsubramaniyan@gmail.com                                 📞 +91-9952030524
+[My github](https://github.com/arjun-subramaniyan)
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-[GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 
