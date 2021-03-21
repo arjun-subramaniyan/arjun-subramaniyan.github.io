@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Arjun Subramaniyan K S
 
 You can use the [editor on GitHub](https://github.com/arjunks95/Arjun_portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
