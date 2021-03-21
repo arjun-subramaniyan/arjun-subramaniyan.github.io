@@ -63,7 +63,7 @@ Started with biomedical engineering, witnessed usage of healthcare technology by
  
  
 
-Tools:
+### Tools:
  ![](/images/l1.png) 
  ![](/images/l2.png) 
  ![](/images/l3.png) 
@@ -71,7 +71,7 @@ Tools:
 ---
 ### Contact me
 
-👋 Hi, I’m on [Linkedin](https://www.linkedin.com/in/arjun-subramaniyan-ks/)             📫 ks.arjunsubramaniyan@gmail.com                                 📞 +91-9952030524     [My github](https://github.com/arjun-subramaniyan)
+👋 Hi, I’m on [Linkedin](https://www.linkedin.com/in/arjun-subramaniyan-ks/)         📫 ks.arjunsubramaniyan@gmail.com                 📞 +91-9952030524     [My github](https://github.com/arjun-subramaniyan)
 
 
 
