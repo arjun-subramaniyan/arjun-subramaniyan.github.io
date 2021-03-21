@@ -41,7 +41,7 @@ Started with biomedical engineering, witnessed usage of healthcare technology by
  - Infrared imaging of the eyes to study the Ocular surface temperature(OST) and it's relationship with glaucoma
  - Made use of MLX90614 non contact IR temperature sensor along with arduino for faster measurement
  - Obtained a negative correlation between OST and IOP.
- <p align="center">
+<p align="center">
   <src="/images/15.jpg">
 </p>
  
