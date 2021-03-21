@@ -1,4 +1,4 @@
-Welcome to the sneak peek into my professional journey so far...
+Welcome to the sneak peek into my quest for knowledge and innovation...
 
 ## About me
 Started with biomedical engineering, witnessed usage of healthcare technology by clinicians across hospitals in South India. Pursuing masters in Digital health with a focus on data for coming up with meaningful innovation that serves the needs of healthcare.
@@ -42,7 +42,7 @@ Started with biomedical engineering, witnessed usage of healthcare technology by
  - Made use of MLX90614 non contact IR temperature sensor along with arduino for faster measurement
  - Obtained a negative correlation between OST and IOP.
 <p align="center">
-  <src="https://github.com/arjun-subramaniyan/arjun-subramaniyan.github.io/blob/gh-pages/images/15.jpg">
+  <src="https://github.com/arjun-subramaniyan/arjun-subramaniyan.github.io/blob/gh-pages/images/15.jpg"/>
 </p>
  
 
