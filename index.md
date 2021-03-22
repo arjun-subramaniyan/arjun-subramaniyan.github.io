@@ -26,7 +26,7 @@ Started with biomedical engineering, witnessed usage of healthcare technology by
 
 ### [Sleep stage detection](https://github.com/arjun-subramaniyan/healthcare-ml/blob/main/EMGEOG_sleepstagetracker.ipynb)
 - Data extracted from [Physionet challenge](https://physionet.org/content/challenge-2018/1.0.0/)
-- Using Machine learning and signal processing to detect the 3 stages of sleep- Awake, NREM, REM 
+- Using Machine learning and digital signal processing to detect the 3 different stages of sleep- Awake, NREM(Non rapid eye movement), REM (Rapid eye movement)
 - EMG: Electrical activity in muscles which reduce upon deeper sleep and EOG: electrical activity elicited due to random movement of pupil(eyeball) which is highest during deep sleep stage(highest during REM phase)
 - Leave one out cross validation used and XGboost algorithm gave an F1 of 80 and 77 on train and unknown test set.
 <p align="center">
@@ -35,7 +35,7 @@ Started with biomedical engineering, witnessed usage of healthcare technology by
  
 ### [Robolang-BIOS](https://capstone.utu.fi/en-robolang-bios)
  - Team capstone project to study the application of social robots in language teaching.
- - My role to study the emotional response in subjects by analysing the biosignals namely EDA(Electrodermal activity), PPG(Photoplethysmogram) and pupillometric activity
+ - My role was to study the emotional response in subjects by analysing the biosignals namely EDA(Electrodermal activity), PPG(Photoplethysmogram) and pupillometric activity when the subjects had a conversation with the Robot.
  - Mock trial conducted and spikes in EDA observed during the conversational dialog.
 
 <p align="center">
@@ -45,9 +45,9 @@ Started with biomedical engineering, witnessed usage of healthcare technology by
 ## **Biomedical engineering**
 
 ### Application of infrared thermography for ophthalmic diagnosis
- - Infrared imaging of the eyes to study the Ocular surface temperature(OST) and it's relationship with glaucoma
+ - Infrared imaging of the eyes to study the Ocular surface temperature(OST).
  - Made use of MLX90614 non contact IR temperature sensor along with arduino for faster measurement
- - Obtained a negative correlation between OST and IOP.
+ - Obtained a negative correlation between OST and Intra-ocular pressure (IOP), a screening parameter for glaucoma.
 <p align="center">
   <img src="/images/15.jpg"/>
 </p>
