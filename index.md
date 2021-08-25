@@ -1,7 +1,8 @@
 Welcome to the sneak peek into my quest for knowledge and innovation...
 
 # About me
-Started with biomedical engineering, witnessed usage of healthcare technology by clinicians across hospitals in South India. Pursuing masters in Digital health with a focus on data for coming up with meaningful innovation that serves the needs of healthcare.
+Biomedical engineer with data skills and healthcare domain expertise. Seeking to solve the unmet needs of healthcare by understanding user expectation, plugging the gaps and delivering meaningful products.
+Started with engineering, witnessed usage of healthcare technology by clinicians across hospitals in South India. Completing Masters in Digital health with a focus on data for coming up with meaningful innovation that serves the needs of healthcare.
 
 # My projects
 ## **Data science**
